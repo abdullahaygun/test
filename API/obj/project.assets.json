@@ -213,11 +213,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\AYGUN\\Desktop\\Projeler\\kendimin\\test3\\test\\API\\API.csproj",
+      "projectUniqueName": "C:\\Users\\AYGUN\\Desktop\\Projeler\\kendimin\\test\\API\\API.csproj",
       "projectName": "API",
-      "projectPath": "C:\\Users\\AYGUN\\Desktop\\Projeler\\kendimin\\test3\\test\\API\\API.csproj",
+      "projectPath": "C:\\Users\\AYGUN\\Desktop\\Projeler\\kendimin\\test\\API\\API.csproj",
       "packagesPath": "C:\\Users\\AYGUN\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\AYGUN\\Desktop\\Projeler\\kendimin\\test3\\test\\API\\obj\\",
+      "outputPath": "C:\\Users\\AYGUN\\Desktop\\Projeler\\kendimin\\test\\API\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\AYGUN\\AppData\\Roaming\\NuGet\\NuGet.Config",
